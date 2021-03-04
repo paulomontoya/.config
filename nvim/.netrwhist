@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/paulomontoya/Documents/workspace'
+let g:netrw_dirhist_5='/home/paulomontoya/Documents/workspace/admin'
+let g:netrw_dirhist_4='/home/paulomontoya/Documents/workspace/admin/src'
+let g:netrw_dirhist_3='/home/paulomontoya/Documents/workspace/admin'
+let g:netrw_dirhist_2='/home/paulomontoya/Documents/workspace/admin/src'
+let g:netrw_dirhist_1='/home/paulomontoya/Documents/workspace/admin'
+let g:netrw_dirhist_0='/home/paulomontoya/.config/nvim'
+let g:netrw_dirhist_9='/home/paulomontoya/Documents/workspace/admin/src/tests-e2e'
+let g:netrw_dirhist_8='/home/paulomontoya/Documents/workspace/admin/src'
+let g:netrw_dirhist_7='/home/paulomontoya/Documents/workspace/admin'
